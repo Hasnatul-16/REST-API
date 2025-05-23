@@ -1,14 +1,19 @@
 <?php
 // $mahasiswa = [
 //     [
-//         "nama" => "Shandhika Galih",
-//         "nrp" => "0403040023",
-//         "email" => " sandhikagalih@unpas.ac.id"
+//         "nama" => "Hasnatul Fadillah",
+//         "nrp" => "2217020068",
+//         "email" => " hasna@gmail.com"
 //     ],
 //     [
-//         "nama" => "Erik Doank",
-//         "nrp" => "0403040001",
-//         "email" => " erik@gmail.com"
+//         "nama" => "Rahmat Irfan",
+//         "nrp" => "0403040023",
+//         "email" => " rahmatirfan@gmail.com"
+//     ],
+ // [
+//         "nama" => "Muhammad Haris",
+//         "nrp" => "0403040003",
+//         "email" => " haris@gmail.com"
 //     ]
 // ];
 
