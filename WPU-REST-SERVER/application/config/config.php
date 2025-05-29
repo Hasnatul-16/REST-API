@@ -23,12 +23,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$config['base_url'] = 'http://localhost/rest-API/WPU-REST-SERVER';
+$config['base_url'] = 'http://localhost/rest-API/WPU-REST-SERVER/';
 
-
-
-// video 7 ,menambahkan dat ke database menggunakan postman
-// http://localhost/rest-API/WPU-REST-SERVER/api/mahasiswa
 /*
 |--------------------------------------------------------------------------
 | Index File
