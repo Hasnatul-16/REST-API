@@ -61,7 +61,7 @@ $('#movie-list').on('click', '.see-detail', function () {
         dataType: 'json',
         type: 'get',
         data: {
-            'apikey': 'dca61bcc',
+            'apikey': '86617191',
             'i': $(this).data('id')
         },
         success: function (movie) {
