@@ -91,7 +91,7 @@ $gambar1 = $resultGambar1['media_url'];
   <div class="jumbotron" id="home">
     <div class="container">
       <div class="text-center">
-        <img src="img/profile2.png" class="rounded-circle img-thumbnail">
+        <img src="img/profile.jpg" class="rounded-circle img-thumbnail">
         <h1 class="display-4">Hasnatul Fadillah</h1>
         <h3 class="lead">Mahasiswi | Programmer | Data Analyst</h3>
       </div>
